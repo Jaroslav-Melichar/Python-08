@@ -7,4 +7,4 @@ for cycle in range(4):
     t.left(90)
     for cycle in range(4):
         t.forward(50)
-        t.left(90)
+        t.left(90)  
