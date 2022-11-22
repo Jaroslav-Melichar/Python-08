@@ -7,6 +7,7 @@ for cycle in range(4):
     t.left(90)
     t.forward(60)
 t.penup()
+t.forward(77)
 t.forward(20)
 t.pendown()
 t.left(50)
